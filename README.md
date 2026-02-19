@@ -14,3 +14,7 @@ This project analyzes UNESCO World Heritage Sites using Tableau.
 ## Web Integration
 The Tableau dashboard is integrated into a Flask web application.
 
+## Live Dashboard
+Tableau Public Link:
+https://public.tableau.com/your_link_here
+
